@@ -1,4 +1,4 @@
-# package_name
+# image-process-images1
 
 Description. 
 The package image_processing is used to:
@@ -14,10 +14,10 @@ Utils:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pip install image-processing-package1
 
 ```bash
-pip install image_processing-package
+pip install image-processing-package1
 ```
 S
 
