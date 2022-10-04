@@ -1,0 +1,1 @@
+# cria-o_de_pacotes_processamento_imagens_Python
