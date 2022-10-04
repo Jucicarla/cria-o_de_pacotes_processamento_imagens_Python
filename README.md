@@ -1,27 +1,28 @@
-## AULA PRÁTICA - DIGITAL INOVATION ONE
+## PROJETO PRÁTICO - DIGITAL INOVATION ONE
 
 ## Descomplicando a criação de pacotes em Python
 
--Objetivos do Projeto
+- Objetivos do Projeto
 
-1. Entender conceitos relacionados aos pacotes
-2. Atualizar o projeto e gerar as distribuições
-3. Publicar o pacote
+  1. Entender conceitos relacionados aos pacotes
+  2. Atualizar o projeto e gerar as distribuições
+  3. Publicar o pacote
 
 - Pacote em Python
-Vantagens de criar um pacote:
+  
+  Vantagens de criar um pacote:
 
-• Facilidade de compartilhamento
+  • Facilidade de compartilhamento
 
-• Facilidade de instalação
+  • Facilidade de instalação
 
 
 - Conceitos
 
-• Pypi: repositório público oficial de pacotes
+  • Pypi: repositório público oficial de pacotes
 
-• Wheel e Sdist: dois tipos de distribuições
+  • Wheel e Sdist: dois tipos de distribuições
 
-• Setuptools: pacote usado em setup.py para gerar as distribuições
+  • Setuptools: pacote usado em setup.py para gerar as distribuições
 
-• Twine: pacote usado para subir as distribuições no repositório Pypi
+  • Twine: pacote usado para subir as distribuições no repositório Pypi
