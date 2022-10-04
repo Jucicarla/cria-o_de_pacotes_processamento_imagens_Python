@@ -1,1 +1,4 @@
-# cria-o_de_pacotes_processamento_imagens_Python
+#AULA PRÁTICA - DIGITAL INOVATION ONE
+
+## Descomplicando a criação de
+pacotes em Python
