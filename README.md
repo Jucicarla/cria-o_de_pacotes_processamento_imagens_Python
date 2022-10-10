@@ -1,5 +1,7 @@
 ## PROJETO PRÁTICO - DIGITAL INOVATION ONE
 
+Projeto feito para entrega de desafio de código no bootcamp Geração Tech Unimed_BH
+
 ## Descomplicando a criação de pacotes em Python
 
 - Objetivos do Projeto
